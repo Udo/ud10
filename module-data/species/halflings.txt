@@ -1,0 +1,11 @@
+author=udo.schroeter@gmail.com
+
+#Species+
+
+##Halflings
+
+Diverged from humans a long time ago, halflings are an enterprising and generally optimistic species of somewhat small proportions. By nature, halflings tend to be hedonists and collectors. 
+
+Halflings come of age at 20 to 30 years. Without advanced medical intervention, a Halfling's natural lifespan is between 120 and 160 years. They have a middling reproduction rate.
+
+On character creation, a halfling starts with CON 1, STR -2, DEX 1, and INT 0. Halflings receive a starting bonus of 1 for any DEX-based skill acquired during character generation, and they also get the Resistance: Fear skill at +4. When buying skill and attribute points with XP, halflings always pay 1 point more than normal for any single advancement.

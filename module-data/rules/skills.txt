@@ -1,0 +1,43 @@
+author=udo.schroeter@gmail.com
+
+#Skills
+
+##What Are Skills?
+Like attributes, skills describe the character's capabilities. While there are only four attributes to signify the character's basic properties, 
+skills can vary widely in number and ratings to represent the learned or innate special abilities of a person. Every character knows at 
+least the Standard skills. Then, further skills can be acquired both at the time of character creation and later in the game. Every skill 
+starts with a rating of 1. 
+
+##Rolling Skill Checks
+Making skill checks is similar to checking against attributes.Skills usually correspond to an attribute, indicating that this attribute boosts the performance of that particular skill. The corresponding attribute to each skill is given in parentheses, like this:
+
+    Some Cool Skill [INT]
+    
+To roll a skill check, add the skill's rating to the corresponding attribute rating, then roll a d10 and add this, too. The sum of these points is the result of the skill check. The GM will tell a player what minimum result is needed for the action to succeed.
+
+##Character Creation
+When creating a new character you get <b>10</b> points for skills. Select any skills from the list below and distribute these points among them. Do not give more than 3 points to a single skill.
+Alternatively, you may use a <a href="/rules-char">Skill Template</a> that contains a number of pre-selected skills.
+
+<div class="example">
+  For example, Rebecca the Ranger wants to sneak into an enemy outpost. She has the Move Silently [DEX] skill at 3 points and a DEX attribute of 3 points. The GM decides the difficulty for this task will be 14. Her player rolls the D10 and gets a 5. <br/>
+  <br/>
+  Adding the D10's result of 5 to the skill's rating of 3 and the DEX attribute of three, Rebecca only manages an 11.
+  The task is not successful and Rebecca is seen by her adversaries as she tries to enter the compound undetectedly.
+</div>
+
+##Skill Tags
+Skill description headers may contain other tags besides the skills corresponding attribute in parentheses. Those tags help you identify specific properties of the skill at one glance. Here is a list of possible tags:
+
+###[Untrained]
+Skills tagged "untrained" can be performed even by characters who do not possess the skill at all. For the purpose of the individual skill check against such a skill, it is assumed that the character has a rating of zero. However, the corresponding attribute still counts when the check is made.
+
+###[Fatigue]
+Some skills are exhausting for the character to use. Unless otherwise stated, successfully performing a skill marked "fatigue" causes the character to lose 1 EP. 
+
+###[Specialization]
+A specialization skill is rarely used on its own, but commonly serves to provide a bonus to a certain other skill it is derived from. Specialization ratings cannot be higher than the rating of their parent skills.
+
+###[Pool]
+Pool type skills are not skills in their own right, but provide a pool of bonus points that can be applied to certain other skill checks. Players can decide to apply one or more points from a pool to these checks as they see fit, however those points are then spent and have to be regenerated over time. Usually, combat skill pools are regenerated between skirmishes.
+

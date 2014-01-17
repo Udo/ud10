@@ -1,0 +1,71 @@
+author=udo.schroeter@gmail.com
+
+#Occupations+
+
+In this module, we supply a few templates for making characters suitable for a contemporary, non-fantasy setting - in other words: templates for people you can find on any street today.
+
+##Archeologist (Cost: 9)
+<i>DEX +1, INT +1, Navigation +1, Occupational Skill: History +4, One Social Skill +2, Search +2</i>
+
+##Banker (Cost: 7)
+<i>INT +1, Flirting +1, Mathematics +1, Occupational Skill: Banking +2, Rules&Regulations +4</i>
+
+##Driver (Cost: 7)
+<i>DEX +1, Driving Cars +4, Initiative +1, Mechanics +1, Navigation +2</i>
+
+##Hacker (Cost: 9)
+<i>INT +2, Basic Knowledge +1, Information Systems +4, Mathematics +1, Occupational Skill: Programming +2</i>
+
+##Hipster (Cost: 6)
+<i>DEX +1, Etiquette +1, Flirting +2, Information Systems +1, Speak Language (pick one) +2</i>
+
+##Intelligence Analyst (Cost: 9)
+<i>INT +2, Basic Knowledge +2, Information Systems +2, Military Tactics +1, Occupational Skill: Intelligence +2, One Language +1, Ranged Combat +1</i>
+
+##Law Enforcement Officer (Cost: 9)
+<i>CON +1, DEX +1, Drive Cars +2, Initiative +2, Occupational Skill: Policework +2, Ranged Combat +1, Rules&Regulations +1</i>
+
+##Mechanic (Cost: 8)
+<i>DEX +1, Drive Cars +1, Electrical Engineering +2, Mechanics +4, Occupational Skill: Repair +2</i>
+
+##Medical Doctor (Cost: 9)
+<i>INT +1, First Aid/CPR +4, Occupational Skill: Medical Diagnosis +4, Occupational Skill: Surgery +2</i>
+
+##Nurse (Cost: 8)
+<i>Diplomacy +1, First Aid/CPR +4, Initiative +1, Occupational Skill: Medical Care +4, Psychology +1</i>
+
+##Office Drone (Cost: 9)
+<i>Diplomacy +2, Flirting +2, Information Systems +2, Occupational Skill: Bureaucracy +2, Occupational Skill: Internet Memes +2, One Language +2</i>
+
+##Pilot (Cost: 9)
+<i>DEX +2, Flirting +2, Navigation +1, Occupational Skill: Airline Pilot +2, Pilot Aircraft +4</i>
+
+##PoliSci Student (Cost: 8)
+<i>INT +1, Basic Knowledge +2, Diplomacy +2, Etiquette +2, Occupational Skill: Politics +2, Psychology +1</i>
+
+##Political Activist (Cost: 6)
+<i>DEX +1, Basic Knowledge +2, Melee Combat +2, Psychology +1, Rules&Regulations +1</i>
+
+##Research Scientist (Cost: 9)
+<i>INT +1, Basic Knowledge +2, Information Systems +1, One Science Skill +1, One Science Skill +4, One Science Specialization +2</i>
+
+##Security Guard (Cost: 8)
+<i>STR +1, Athletic Pool +1, Endurance +1, Melee Combat +2, Melee Pool +2, Ranged Combat +1, Search +2</i>
+
+##Social Worker (Cost: 7)
+<i>Basic Knowledge +1, Diplomacy +2, Drive Cars +1, Etiquette +1, Psychology +2, Religion +1, Rules&Regulations +2</i>
+
+##Soldier (Cost: 9)
+<i>CON +1, STR +1, Athletic Pool +2, Military Tactics +2, Occupational Skill: Military +2, Pilot Ground Vehicles +1, Ranged Combat +2</i>
+
+##Sport Student (Cost: 9)
+<i>CON +1, DEX +1, STR +1, Acrobatics +2, Flirting +2, Occupational Skill: Sports Knowledge +1, Swim +2</i>
+
+##Street Thug (Cost: 8)
+<i>STR +2, Flirting +1, Initiative +1, Melee Combat +2, Occupational Skill: Streetwise +2, Ranged Combat +1</i>
+
+##Teacher (Cost: 9)
+<i>INT +1, Basic Knowledge +4, Occupational Skill: Teaching +2, One Science Skill +2, One Social Skill +2</i>
+
+##Translator (Cost: 8)
+<i>Diplomacy +2, Etiquette +1, One Language +1, One Language +2, One Language +4, Psychology +1</i>

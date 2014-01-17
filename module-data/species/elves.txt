@@ -1,0 +1,11 @@
+author=udo.schroeter@gmail.com
+
+#Species+
+
+##Elves
+
+Elves are a resilient and long-lived people. They tend to be individualists and can sometimes be reluctant to accept change. By and large, however, elves are curious about the world and eager to learn.
+
+An elf enters adulthood at between 30 and 50 years of age. While their bodies do show signs of aging, there is no known limit to the natural lifespan of an elf. Elves have a low reproduction rate and generally do not procreate under adverse conditions. They are very resistant to most diseases, and when falling ill the disease usually progresses very slowly (for better or worse). Elves are genetically incompatible with all other humanoid species.
+
+On character creation, elves start with CON 1, INT 1, STR -2, DEX 2, and the Resistance: Diseases skill at +4. When buying skill and attribute points with XP, elves pay double the normal cost. 

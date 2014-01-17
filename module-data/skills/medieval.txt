@@ -1,0 +1,24 @@
+author=udo.schroeter@gmail.com
+
+#Social Skills+
+
+##Heraldry
+[INT] This skill encompasses knowledge of both local and international organizations and families, as identified by their insignia, such as their coats of arms. A character with the heraldry skill may make a skill check to see if she can identify a family or organization by their crest.
+
+#Survival Skills+
+
+##Farming
+[CON] This skill represents the knowledge and experience necessary to engage in (mostly) low-tech farming activities, including the improvisation of tools and the manufacture of typical farming products, such as food, clothing or building materials.
+
+#Military Skills+
+
+##Jousting
+[CON or DEX] The jousting skill is a combination of all the skills required to successfully compete in medieval tournaments and includes knowledge and training in activities like martial games involving a competition between armed horsemen, wielding a lance, recognizing the local customs associated with knighthood, and engage in tactical maneuvers to overcome an opponent in duels.
+
+#Social Skills+
+
+##Lording
+[CON or INT] The lording skill equips a character the training needed to dominate and lord over a population of people. The actual style with which this is performed can vary on the character, usually ranging from brutal repression to projecting an indomitable air of authority. This skill can be used to tactically or strategically control a character's subordinates.
+
+##Haggling
+[INT] This skill enables a character to engage in culturally specialized aggressive negotiations about the price of goods.

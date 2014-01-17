@@ -1,0 +1,30 @@
+author=udo.schroeter@gmail.com
+
+#Melee Combat Skills+
+
+##Dual Weapons – Melee
+[STR] With this skill it is possible to use two single-handed hand-to-hand weapons simultaneously during a single attack action. Of course, each weapon has to be small enough so it can be used with one hand only. This skill covers the attack with the character's off hand. It is possibly to attack with both hands at once, incurring a penalty of -2 on both checks. The rating of this skill cannot be higher than the character's normal hand-to-hand combat skill.
+
+##Melee Combat
+[STR / untrained] This skill indicates the ability of the character to attack an opponent either with her bare hands or any hand-held direct-contact weapon. To successfully hit an opponent in battle, a check roll needs to be made against this skill. If it is successful, the opponent receives damage points according to the damage rating of the weapon used. The Hand-to-hand combat skill can also be used to determine the outcome of other non-combat-related hand-to-hand coordination tasks.
+
+##Melee Pool
+[pool] The melee pool can be used to boost any melee combat skill roll or the damage caused by a melee attack. The pool replenishes at the start of each gaming session.
+
+##Parry
+[STR / untrained] A successful check against this skill can be used to parry an incoming hand-to-hand attack. For the parry attempt to be successful, the result has to be higher than the attack roll. Parrying takes place as a reaction at most once per combat round.
+
+##Dodge
+[DEX / untrained] A successful check against this skill can be used to dodge an incoming hand-to-hand attack. For the parry attempt to be successful, the result has to be higher than the attack roll. Parrying takes place as a reaction at most once per combat round. When using the Dodge skill the character forfeits her next attack action.
+
+##Rapid Draw
+[DEX] By making a successful skill check against a 10 (subject to situational modifiers as determined by the GM), the character can draw and ready her weapon as a free action instead of having to invest one round.
+
+##Unarmed Combat
+[specialization of Melee Combat] Characters with this specialization skill are adept at fighting with their bare hands and feet.
+
+##Weapon Specialization
+[specialization of Melee Combat] The specialization skill allows a character to specialize in a certain type melee weapon, such as for example daggers, swords, staves, flails etc. It is possible to have multiple weapon specializations, each covering a different type of weapon. The rating of a weapon specialization cannot exceed the rating of the character's Melee Combat skill.
+
+##Wear Armor
+A character with the Wear Armor skill is used to wear heavy armor. The armor penalty is lessened by the skill's rating.

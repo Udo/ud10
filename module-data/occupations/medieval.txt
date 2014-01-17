@@ -1,0 +1,69 @@
+author=udo.schroeter@gmail.com
+
+#Occupations+
+
+In this module, we supply a few templates for making medieval archetype characters.
+
+##Bailiff (Cost: 8)
+<i>CON +1, STR +1, Unarmed Combat +2, Lording +2, Occupational Skill: Streetwise +2, Religion +1</i><br/>
+Bailiffs are community officers who make arrests, but they also manage the subordinates of the local aristocracy. In a city, a bailiff serves the city's administration.
+
+##Chancellor (Cost: 8)
+<i>INT +2, Heraldry +2, Bureaucracy +2, Diplomacy +1, Lording +1, Rules and Regulations +1</i><br/>
+Chancellors manage estates and houses on behalf of their owners, and they sometimes also serve as their personal assistants.
+
+##Constable (Cost: 8)
+<i>CON +1, STR +1, Melee Combat +2, Rules and Regulations +2, Parry +1, Psychology +1, Tracking +1</i><br/>
+Constables are keeping watch over a city quarter or a rural community. Sometimes they also serve as road wardens.
+
+##Pursuivant (Cost: 8)
+<i>INT +1, Heraldry +4, Etiquette +2, Bureaucracy +1, Religion +1, Speak Language (specify) +1</i><br/>
+Pursuivants are experts in genealogy and heraldry. In addition they're also in charge of reading official proclamations.
+
+##Hunter (Cost: 8)
+<i>DEX +2, Ranged Combat +2, Tracking +2, Tracking (specify animal type) +1, Trap Making +1, Outdoor Survival +1</i><br/>
+Hunters prey on local wildlife and are experts at preparing meat and other products such as furs.
+
+##Farmer (Cost: 8) 
+<i>CON +1, Farming +4, Animal Care +2, Outdoor Survival+1, Endurance +1, Mechanics +1</i><br/>
+Farmers are local land owners or tenants who lease a plot of land in order to engage in agriculture and animal herding.
+
+##Guardsman (Cost: 9)
+<i>STR +2, Melee Combat +2, Ranged Combat +1, Wear Armor +2, Parry +1, Endurance +1, Rules and Regulations +1</i><br/>
+Guardsmen are usually part of a militarized police force charged with the protection of an estate or a city.
+
+##Archer (Cost: 8)
+<i>DEX +2, Ranged Combat +3, Wear Armor +1, Endurance +1, Rules and Regulations +1</i><br/>
+Armies, city guards, and even local rulers often employ specialized archers to provide them with lethal ranged combat capabilities.
+
+##Footpad (Cost: 9)
+<i>DEX +1, STR +1, Melee Combat +2, Ranged Combat +2, Parry +2, Psychology +1, Flirting +1</i><br/>
+Footpads are small-time robbers and thiefs who mostly live off the simple people of a town or city.
+
+##Pickpocket (Cost: 9)
+<i>DEX +3, Occupational Skill: Pickpocketing +2, Street Performance +2, Acrobatics Pool +1, Lock Picking +1, Psychology +1</i>
+Pickpockets are people who specialize in stealing valuables and tricking city dwellers in order to extract money from them.
+
+##Priest (Cost: 8)
+<i>INT +1, Religion +4, Rules and Regulations +2, Diplomacy +2, Basic Knowledge +1</i><br>
+Priests engage in religious duties related to their specific fate. They can also serve as community authorities and counselors.
+
+##Travelling Merchant (Cost: 8)
+<i>CON +1, Melee Combat or Ranged Combat +2, Haggling +2, Endurance +1, Rules and Regulations +1, Etiquette +1, Diplomacy +1</i><br/>
+Merchants are the backbone of medieval supply infrastructure. They travel between towns and cities, supplying them with vital and sometimes luxurious goods.
+
+##Artist (Cost: 8)
+<i>DEX +1, Occupational Skill: (specify art form) +3, Occupational Skill: (specify art form) +2, Basic Knowledge +2, Speak Language (specify) +1</i><br/>
+Artists are somewhat free spirits, usually sponsored by the local aristocracy. They produce highly prized works of art or perform outstanding acts of entertainment.
+
+##Scholar (Cost: 9)
+<i>INT +2, Basic Knowledge +2, Mathematics or Religion +2, Pseudoscience (specify) or Occupational Skill: Inventor +2, Astronomy or Speak Language (specify) +2</i><br/>
+Scholars are students of both arcane and practical knowledge. The nature of their studies and their employment varies greatly, usually dependent on the character's tastes and opportunities presented by wealthy sponsors.
+
+##Sailor (Cost: 9)
+<i>CON +2, Endurance +2, Unarmed Combat +2, Occupational Skill: Sailing +2, Drill Pool +2</i><br/>
+Sailors travel the world on merchant or military ships. It's a harsh life that offers little rewards and as such is often an occupation chosen by wanted criminals or people with nothing left to lose.
+
+##Blacksmith (Cost: 8)
+<i>STR +2, Occupational Skill: Smithing +2, Mechanics +2, Melee Combat +1, Basic Knowledge +1</i><br/>
+Blacksmiths work to form implements, tools, and sometimes weapons from iron.

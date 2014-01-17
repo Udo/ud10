@@ -1,0 +1,28 @@
+author=udo.schroeter@gmail.com
+
+#Survival Skills+
+
+##Animal Care
+[DEX] Characters with this skill are proficient in taking care of farm animals, or wild animals as the case may be. This includes basic veterinary treatment, as well as the knowledge necessary to exploit an animal for farming purposes.
+
+##Outdoor Survival
+[DEX] The Survival skill represents a character's ability to survive independently in the wilderness.
+
+##Tracking
+[INT] This skill allows a character to discover and follow trails left by a creature as it moves through its environment. 
+
+##Tracking: (Animal)
+This specialization gives the character a bonus tracking a certain kind of creature (must be specified).
+
+##Tracking: (Environment Type)
+By specializing according to environment type, the character gains a bonus on her tracking rolls if a certain type of terrain is involved. 
+The type of environment must be specified when learning this specialization. Examples for this would be: rural, forests, deserts, plains, or urban.
+
+##Trap Making
+[DEX] The skill of making and deploying a trap designed to capture or kill an animal.
+
+##Fishing
+[DEX] This skill makes the character an expert at catching fish, including the making of improvised angling gear if necessary.
+
+
+

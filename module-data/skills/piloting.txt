@@ -1,0 +1,19 @@
+author=udo.schroeter@gmail.com
+
+#Piloting Skills+
+
+##Drive Cars / Ground Vehicles
+[DEX] This skill allows a character to pilot a range of ground vehicles appropriate to the campaign setting, such as automobiles, carriages, hovercraft etc.
+
+##Pilot Aircraft
+[DEX] The aircraft piloting skill qualifies a character to fly a number of aircraft appropriate to the campaign setting.
+
+##Navigation
+[INT] This skill represents the character's ability to navigate the skies, use maps and navigation equipment, and to plan tactical maneuvers depending on her situational awareness.
+
+##Riding
+[DEX] With this skill, a character can ride a specially trained animal, such as a horse.
+
+##Vehicle Specialization
+[specialization of any piloting skill] Piloting specialization can be used to represent further training a character has with a certain type of vehicle or riding animal.
+

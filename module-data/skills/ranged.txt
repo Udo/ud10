@@ -1,0 +1,21 @@
+author=udo.schroeter@gmail.com
+
+#Ranged Combat Skills+
+
+##Aim Pool
+[pool] The aim pool can be used to boost any ranged combat skill roll or the damage caused by a ranged attack. The pool replenishes at the start of each gaming session.
+
+##Dual Weapons - Ranged
+[DEX] With this skill it is possible to use two single-handed ranged weapons simultaneously during a single attack action. Of course, each weapon has to be small enough so it can be used with one hand only. This skill covers the attack with the character's off hand. It is possibly to attack with both hands at once, at half the normal skill rating for each. The rating of this skill cannot be higher than the character's normal ranged combat skill. 
+
+##Ranged Combat
+[DEX / untrained] With the ranged combat skill, a character can use any kind of firearm or ranged weapon. To successfully hit an opponent in battle, a check roll against this skill needs to be made. The ranged combat skill also be used to determine the outcome of other actions, such as catching a flying object in mid-air.
+
+##Rapid Reload
+[DEX] A character who makes a successful roll on Rapid Reload against a 10 (subject to situational modifiers as determined by the GM) can reload her weapon in half the time it usually takes. If the weapon has a reload time of one round, a character can use Rapid Reload to perform this by forfeiting her reaction and her movement for one round.  
+
+##Sharp Shooter
+[specialization of Ranger Combat] The sharp shooter specialization enables a character to hit a target with great accuracy and at a greater range than typical for the weapon used, provided there is enough time to prepare and aim carefully. In an acute combat situation, a character can use up to 3 points from this specialization as a bonus on her Ranged Combat skill after either pausing to take aim for one round before the shot, or alternatively by forfeiting her reaction and movement actions for one round.
+
+##Weapon Specialization
+[specialization of Ranged Combat] The specialization skill allows a character to specialize in a certain type ranged weapon, such as for example bows, pistols, submachine guns, rifles etc. It is possible to have multiple weapon specializations, each covering a different type of weapon. The rating of a weapon specialization cannot exceed the rating of the character's ranged combat skill.
