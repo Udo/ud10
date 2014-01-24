@@ -1,0 +1,31 @@
+author=udo.schroeter@gmail.com
+
+#Worlds+
+
+##Deep Space
+
+##Asteroids
+
+##Rock
+
+##Barren Wasteland
+
+##Desert
+
+##Harsh Wilderness
+
+##Water World
+
+##Temperate
+
+##Toxic Pressure Cooker
+
+##Volcano World
+
+##Tidally Locked
+
+
+
+
+
+

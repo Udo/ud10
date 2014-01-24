@@ -1,0 +1,14 @@
+author=udo.schroeter@gmail.com
+
+#Cultures+
+
+##Technocracy
+
+People living in a technocracy are defined by their use of machines for almost every aspect of life. This
+includes employing machines to do all the menial tasks, as well as other vital functions such as security and 
+health care. Technocracies can be stable, rationalist societies or even implementations of direct democracy
+ - but they can also degenerate into unstable decadent anarchies. 
+
+Characters from a technocratic background receive a bonus of 2 on all skill roles dealing with machines
+or computer equipment.
+

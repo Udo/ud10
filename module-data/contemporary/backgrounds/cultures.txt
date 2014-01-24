@@ -1,0 +1,16 @@
+author=udo.schroeter@gmail.com
+
+#Cultures+
+
+##Bureaucracy
+
+The purpose of bureaucracy is to expand forever the society's administrative frameworks in an effort to meet
+the needs of its expanding bureaucracy. This requires a technical level that ensures proper data archival,
+but also - and perhaps more importantly - a technological background that can support a large number of the
+population not doing anything productive.
+
+Characters from a bureaucratic background receive the Bureaucracy skill with a rating of 3. They also get a 
+bonus of 2 on all skill rolls that involve activities which have been carefully planned and approved by
+an authority beforehand.
+
+

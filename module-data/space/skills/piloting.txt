@@ -1,0 +1,16 @@
+author=udo.schroeter@gmail.com
+
+#Piloting Skills+
+
+##Pilot Small Spacecraft
+[DEX] This piloting skill qualifies a character to fly a number of small shuttle-like spacefaring craft appropriate to the campaign setting. 
+
+##Evasive Maneuvers
+[DEX] With this skill, a character can perform evasive maneuvers with her small spacecraft in order to avoid getting hit with weapons fire or other high-velocity impactors. Use this skill as a reaction to dodge when piloting small spacecraft during a combat situation.
+
+##Pilot Large Spacecraft
+[INT] Large Spacecraft are not flown by the seat of the pilot's pants, instead they are carefully maneuvered. Controlling a large space-faring vessel requires a talent for planing and foresight.
+
+##Stellar Navigation
+[INT] By employing this skill, a character can navigate her spacecraft around the star system, or depending on its technological sophistication, she can even perform interstellar navigation tasks.
+

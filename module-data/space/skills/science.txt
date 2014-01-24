@@ -1,0 +1,9 @@
+author=udo.schroeter@gmail.com
+
+#Science Skills+
+
+##Rocket Science
+[INT] Characters with this skill are versed in the theory and design of advanced propulsion systems.
+
+
+

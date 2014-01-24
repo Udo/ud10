@@ -1,0 +1,10 @@
+author=udo.schroeter@gmail.com
+
+#Military Skills+
+
+##Shipboard Operations
+[INT] Large ships need to be adminstrated like small cities. Especially vessels with a large number of crew members or complicated onboard systems require a specialized skill to keep everything running smoothly during day-to-day operations as well as in emergencies. Characters with this skill may perform a variety of actions centered on this issue.
+
+##Space Combat Tactics
+[INT] Especially useful on board of huge carriers or warships, this is an executive skill that allows a character to plan and execute maneuvers during a combat situation.
+

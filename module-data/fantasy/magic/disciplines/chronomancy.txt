@@ -1,0 +1,17 @@
+author=udo.schroeter@gmail.com
+
+#Chronomancy
+
+[control over time and space]
+
+##Basic Spells
+
+###Slow
+<pre>Level: 1, Speed: 1, Duration: none,
+  Area: personal, Max Level 7</pre>
+
+The slow spell slows down the spell's target. The target suffers a -[Level] penalty to initiative and
+receives a penalty of 2 to parry and dodge rolls.
+
+
+

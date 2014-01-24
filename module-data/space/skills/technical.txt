@@ -1,0 +1,7 @@
+author=udo.schroeter@gmail.com
+
+#Technical Skills+
+
+##Spacecraft Maintenance
+[DEX] Characters who are adept at maintaining spacecraft can, with the proper tools and experience, engage in a variety of repair, construction and modification tasks.
+

@@ -1,0 +1,24 @@
+author=udo.schroeter@gmail.com
+
+#Alchemy
+
+Alchemy is the art of transforming matter into other kinds of matter, changing both the structure of materials, as well as their chemical composition and physical properties. 
+Advanced Alchemists can even transform elements into other elements.
+
+##Basic Spells
+
+###Weakness
+<pre>Level: 1, Speed: 1, Duration: concentration,
+  Area: personal, Max Level 10</pre>
+
+The Weakness spell reduces the durability of solid materials, temporarily transforming them into a brittle or even mushy substance.
+The maximum amount of material that can be weakened is 2^[Level] kg. When targeting armor, its effectiveness is halved by this spell.
+
+###Strength
+<pre>Level: 2, Speed: 1, Duration: concentration,
+  Area: personal, Max Level 10</pre>
+
+This spell strengthens materials, effectively making them more rigid and resistant to damage. The maximum amount of material that 
+can be strengthened is 2^[Level] kg. When targeting armor, its effectiveness receives a bonus of +2 due to this spell.
+
+

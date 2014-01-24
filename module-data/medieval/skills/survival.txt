@@ -1,0 +1,6 @@
+author=udo.schroeter@gmail.com
+
+#Survival Skills+
+
+##Farming
+[CON] This skill represents the knowledge and experience necessary to engage in (mostly) low-tech farming activities, including the improvisation of tools and the manufacture of typical farming products, such as food, clothing or building materials.

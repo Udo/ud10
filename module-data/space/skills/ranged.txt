@@ -1,0 +1,7 @@
+author=udo.schroeter@gmail.com
+
+#Ranged Combat Skills+
+
+##Spacefighter Weapons
+[DEX] This skill is used by a character to perform a ranged attack on board a small spacecraft. Typical spacefighter weapons would be artillery mounted to the hull, rockets or other self-propelled ordnance.
+
