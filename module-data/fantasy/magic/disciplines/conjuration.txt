@@ -1,0 +1,15 @@
+author=udo.schroeter@gmail.com
+
+#Conjuration
+
+Conjuration is magic that deals in contacting, conferring with, and generally conjuring of things,
+monsters, and other entities.
+
+##Basic Spells
+
+###..
+<pre>Level: 1, Speed: 1, Duration: concentration,
+  Area: personal, Max Level 7</pre>
+
+
+

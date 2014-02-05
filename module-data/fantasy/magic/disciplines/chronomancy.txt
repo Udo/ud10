@@ -2,16 +2,31 @@ author=udo.schroeter@gmail.com
 
 #Chronomancy
 
-[control over time and space]
+Chronomancy is the art of controlling time and space through the means of magic.
 
 ##Basic Spells
 
 ###Slow
-<pre>Level: 1, Speed: 1, Duration: none,
+<pre>Level: 1, Speed: 1, Duration: concentration,
   Area: personal, Max Level 7</pre>
 
 The slow spell slows down the spell's target. The target suffers a -[Level] penalty to initiative and
-receives a penalty of 2 to parry and dodge rolls.
+receives a penalty of 2 to parry and dodge rolls. 
+
+###Quicken
+<pre>Level: 2, Speed: 1, Duration: concentration,
+  Area: personal, Max Level -</pre>
+
+The slow spell speeds up the spell's target. The target gains a +2 bonus to initiative and
+receives a bonus of 2 to parry and dodge rolls.
+
+###Stasis
+<pre>Level: 4, Speed: 1, Duration: concentration,
+  Area: personal, Max Level -</pre>
+
+This spell puts an object or person into temporal stasis. If an unwilling target is attacked with
+this spell, it can make a DEX check against the wizard's level to escape before the spell takes hold.
+
 
 
 
