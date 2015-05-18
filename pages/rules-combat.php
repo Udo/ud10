@@ -1,7 +1,7 @@
 <h2>Combat</h2>
 
 <div class="quickstart">
-<h3>QUICK JUMP</h3>
+<h4>Quick Jump</h4>
   <li><a href="#start">Starting Combat</a></li>
   <li><a href="#movement">Movement</a></li>
   <li><a href="#actions">Actions</a></li>
@@ -35,6 +35,8 @@ h3 {
   and NPCs alike. In this, as in all other things, GM discretion is advised to bend the combat rules to whatever style
   of gameplay is preferred.
 </p>
+
+<img class="right" src="/img/ud10-crossbow.jpg"/>
 
 <h2>Preparations</h2>
 <p>
@@ -83,6 +85,8 @@ h3 {
   </ul>
 </p>
 
+<img class="left" src="/img/ud10-bear.jpg"/>
+
 <a name="movement"></a>
 <h2>Movement</h2>
 <p>
@@ -113,6 +117,8 @@ h3 {
   </ul>
 </p>
 
+<img class="right" src="/img/ud10-hill.jpg"/>
+
 <a name="actions"></a>
 <h2>Performing Actions</h2>
 <p>
@@ -136,6 +142,8 @@ h3 {
   <pre>  opponent's Defense rating +/- modifiers</pre>
   Normally, an opponent has a Defense rating 10 plus her DEX attribute. However, the DEX attribute only applies when the attack can be anticipated. As such, it does not apply when the opponent is suprised, attacked from behind, or otherwise unable to foresee the move. 
 </p>
+
+<img class="right" src="/img/ud10-canyon.jpg"/>
 
   <h3>Defense Rating Modifiers (Examples)</h3>
   <? table(array(
@@ -186,9 +194,9 @@ h3 {
 <p>
   If an attack on a character is successful, a roll needs to be made to determine which part of his body was hit by the attack so the corresponding protective effect of any armor can be applied. In order to do this, a d10 is used: 
 
-<table align="center">
+<table width="90%">
   <tr>
-    <td valign="top"><img src="/img/bodyzones.png"/></td>
+    <td valign="top"><img style="width:80%" src="/img/ud10-anatomy.jpg"/></td>
     <td valign="top"><pre style="text-align: center">
 
 <b>01</b>: head
@@ -227,7 +235,8 @@ h3 {
 <p>
   Most armor protects their wearer not only from immediate physical harm due to penetrating injuries but 
   also ameliorates the effects of forceful impact. They have a characteristic called the <i>buffer</i>. Incoming 
-  damage is first lessened by the armor rating, and the rest is converted into endurance point (EP) loss. 
+  damage is first lessened by the armor rating, and the rest - up to and including the buffer value of the armor -
+  is converted into endurance point (EP) loss. 
   The victim only sustains damage to her HP when the buffer of the armor is exceeded. 
 </p>
 

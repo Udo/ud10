@@ -7,6 +7,8 @@
   designed to allow the GM and players enough freedom of expression to play a rich and nuanced game. 
 </p>
 
+<img class="right" src="/img/ud10-siege.jpg"/>
+
 <h2>Dice Rolls</h2>
 
 <h3>Determining success and failure</h3>

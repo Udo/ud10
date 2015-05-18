@@ -1,7 +1,7 @@
 <h2>Attributes</h2>
 
 <div class="quickstart">
-<h3>QUICKSTART</h3>
+<h4>Quick Start</h4>
 To create a new character, distribute <b>5</b> points among the four attributes STR, DEX, CON, and INT - the highest rating of any attribute may be 3.
 </div>
 
@@ -13,22 +13,22 @@ To create a new character, distribute <b>5</b> points among the four attributes 
 <h3>Attribute Descriptions</h3>
 <h4>Strength (STR)</h4>
 <p>
-  <div class="qinfo">Starting value: 0</div>
+  <div class="qinfo">Starting value: STR 0</div>
   This attribute represents the physical strength of a charater, it applies to lifting weight, dealing damage in hand-to-hand combat and other muscle-related tasks.
 </p>
 <h4>Dexterity (DEX)</h4>
 <p>
-  <div class="qinfo">Starting value: 0</div>
+  <div class="qinfo">Starting value: DEX 0</div>
   Dexterity encompasses the characters nimbleness and general control over his/her body, like balance and gracefulness.
 </p>
 <h4>Constitution (CON)</h4>
 <p>
-  <div class="qinfo">Starting value: 0</div>
+  <div class="qinfo">Starting value: CON 0</div>
   This attribute quantifies the physical toughness of a character, relating to how sensitive he/she is to receiving damage, how easily he/she tires and how well the resistance to sickness is developed. 
 </p>
 <h4>Intelligence (INT)</h4>
 <p>
-  <div class="qinfo">Starting value: 0</div>
+  <div class="qinfo">Starting value: INT 0</div>
   The Intelligence attribute describes how good a character's mental capabilities are, for example how fast they learn and how good they are at tasks that require intelligence to perform.
 </p>
 

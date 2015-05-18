@@ -1,3 +1,5 @@
+<img class="right" src="/img/ud10-face.jpg"/>
+
 <h2>Making a Character</h2>
 
 <p>
@@ -70,6 +72,8 @@
   <li>underachiever</li>
 </p>
 </div>
+
+<img class="right" src="/img/ud10-siege2.jpg"/>
 
 <h3>Applying Templates</h3>
 <p>

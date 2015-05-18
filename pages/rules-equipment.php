@@ -1,7 +1,7 @@
 <h2>Weapons And Equipment Guide</h2>
 
 <div class="quickstart">
-<h3>QUICK JUMP</h3>
+<h4>Quick Jump</h4>
   <li><a href="#melee">Melee Weapons</a></li>
   <li><a href="#ranged">Ranged Weapons</a></li>
   <li><a href="#armor">Armor</a></li>
@@ -36,6 +36,8 @@
   They cause one additional point of damage when attacking an opponent with no armor. 
 </p>
 
+<img class="right" src="/img/ud10-siege3.jpg"/>
+
 <?
 
 table(array(
@@ -57,6 +59,8 @@ table(array(
 
 <a name="ranged"></a>
 <h3>Ranged Weapons</h3>
+
+<img class="left" src="/img/ud10-siege4.jpg" style="margin-top: 0"/>
 
 <p>
   The following weapons are generic contemporary ranged weapons without any specific model description. The GM is welcome
@@ -125,11 +129,13 @@ table(array(
   <b>Suppression fire</b>: An attacker can use this action to lay down suppression fire in order to keep
   a group of targets from leaving their cover positions. Suppression fire uses up the number of bullets equal to the
   <i>long burst</i> firing mode of the weapon. 
-  Until the attacker's next action in the coming combat round, every person who is pinned down by suppression
-  fire must make a successful DEX check against a 10 to do anything that requires emerging from cover.
+  Until the attacker's next action in the coming combat round, every person who threatened
+  by the shooter must make a morale check or reflexively take cover.
   If someone does emerge from cover, the attacker makes an automatic attack roll to hit them with a single
   bullet as a free action.
 </p>
+
+<img class="right" src="/img/ud10-skull.jpg"/>
 
 <a name="armor"></a>
 <h3>Armor</h3>
@@ -145,10 +151,10 @@ table(array(
 
   'Sturdy clothes'    => array('Armor' => '1',  'Buffer' => '1',  'Penalty' => '0'),
   'Studded leather'   => array('Armor' => '2',  'Buffer' => '2',  'Penalty' => '0'),
-  'Chain mail*'       => array('Armor' => '4',  'Buffer' => '2',  'Penalty' => '-4'),
-  'Plate Armor'       => array('Armor' => '6',  'Buffer' => '4',  'Penalty' => '-4'),
-  'Kevlar'            => array('Armor' => '6',  'Buffer' => '8',  'Penalty' => '-2'),
-  'Blast Suit'        => array('Armor' => '8',  'Buffer' => '10', 'Penalty' => '-8'),
+  'Chain mail*'       => array('Armor' => '4',  'Buffer' => '4',  'Penalty' => '-4'),
+  'Full Plate Armor'  => array('Armor' => '6',  'Buffer' => '6',  'Penalty' => '-6'),
+  'Kevlar'            => array('Armor' => '8',  'Buffer' => '8',  'Penalty' => '-2'),
+  'Blast Suit'        => array('Armor' => '10',  'Buffer' => '10', 'Penalty' => '-8'),
 
   ), 'center,center,center', array('nosort' => true));
 

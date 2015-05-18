@@ -1,3 +1,5 @@
+<img class="right" src="/img/ud10-flower.jpg"/>
+
 <h3>Getting and Spending Experience Points</h3>
 <p>
   Experience points are used by the GM to reward player characters. How much XP a character gets over time is

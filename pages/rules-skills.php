@@ -1,7 +1,7 @@
 <h2>Skills</h2>
 
 <div class="quickstart">
-<h3>QUICKSTART</h3> 
+<h4>Quick Start</h4> 
   When creating a new character you get <b>10</b> points for skills. Select any skills from the list below and distribute these points among them. Do not give more than 3 points to a single skill.
   <br/><br/>Alternatively, you may use a <a href="/rules-char">Skill Template</a> that contains a number of pre-selected skills.
 </div>
@@ -29,6 +29,8 @@
   Adding the D10's result of 5 to the skill's rating of 3 and the DEX attribute of three, Rebecca only manages an 11.
   The task is not successful and Rebecca is seen by her adversaries as she tries to enter the compound undetectedly.
 </div>
+
+<img class="left" src="/img/ud10-rider.jpg"/>
 
 <h3>Skill Tags</h3>
 <p>
@@ -339,13 +341,13 @@ The rating of this skill cannot be higher than the character's normal ranged com
   ksort($skills);
   
 ?>
-  
-  <div class="toc"><i>Quick Jump</i>:<ul>
-  <? foreach($skills as $sn => $s) { $sl[] = '<li><a href="#'.md5($sn).'">'.$sn.'</a></li>'; }
-  print(implode(' ', $sl));
-  ?>  </ul>
+  <div class="toc">
+    <h4>Quick Jump</h4> 
+    <ul>
+    <? foreach($skills as $sn => $s) { $sl[] = '<li><a href="#'.md5($sn).'">'.$sn.'</a></li>'; }
+    print(implode(' ', $sl));
+    ?>  </ul>
   </div>
-
 
 <?
   
@@ -354,12 +356,12 @@ The rating of this skill cannot be higher than the character's normal ranged com
     ksort($group);
     ?>
     <a name="<?= md5($skillGroupName) ?>"></a>
-    <h3 style="padding-top: 60px;"><?= $skillGroupName ?></h3><?
+    <h3><?= $skillGroupName ?></h3><?
     foreach($group as $skillName => $info)
     {
-      ?> <p>
-        <div><b><?= $skillName?></b></div>
+      ?><p>
         <div class="qinfo">[<?= $info['tags'] ?>]</div>
+        <div><b><?= $skillName?></b></div>
         <?= (str_replace(chr(10), chr(10).chr(10), $info['desc'])) ?>
       </p><?
     }

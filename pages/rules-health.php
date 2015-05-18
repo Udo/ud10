@@ -1,7 +1,7 @@
 <h2>Character Health Status</h2>
 
 <div class="quickstart">
-<h3>QUICKSTART</h3> 
+<h4>Quick Start</h4>
   Starting at 10 points each, distribute <b>5</b> more points total among the health status scores HP, EP, and MS giving no more than 3 additional points to a single score.
 </div>
 
@@ -12,28 +12,31 @@
 
 <h4>Hit Points (HP)</h4>
 <p>
-  <div class="qinfo">Starting value: 10</div>
+  <div class="qinfo">Starting value: HP 10</div>
   A character's physical health is determined by the number of hit points (HP) he/she has. Any injury a character sustains is represented by a number of damage points. As the number of damage points a character receives is first reduced by the CON attribute, any amount of damage points left is then subtracted from the current HP score of the character.<br/> 
   <br/>
-  Injury and death: If the number of HP reaches zero, the character is severely injured. For any HP below zero, the character incurs a penalty of 1 to all her checks. Sustaining an injury that brings the character to zero or less HP will also result in unconsciousness most of the time: the character must make a successful CON check with a difficulty of 10 minus her HP to remain conscious.<br/>
+  Injury and death: If the number of HP reaches zero, the character is severely injured. For any HP below zero, the character incurs a penalty of 1 to all her checks. Sustaining an injury that brings the character to zero or less HP does not automatically
+  make the character unconscious, but for most intents and purposes results in incapacitation.<br/>
   <br/> 
   Falling below a HP value of -10 usually results in death, depending on the nature of the injury and other factors as determined by the GM.
 </p>
 
 <h4>Endurance Points (EP)</h4>
 <p>
-  <div class="qinfo">Starting value: 10</div>
+  <div class="qinfo">Starting value: EP 10</div>
   To signify the level of alertness and energy a character currently has, endurance points (EP) are employed to keep track of the character's fatigue. Depending on the level of activity, the GM can subtract points from this score over time. If a character rests, points are restored again. Usually, each hour of rest restores 1 EP. <br/>
   <br/>
-  For each point below 0, the character sustains a penalty of 1 on all checks that require physical or mental alertness.
+  For each point below 0, the character sustains a penalty of 1 on all checks that require physical work or mental alertness.
+  A characters EP rating cannot drop below -10.
 </p>
 
 <h4>Mental Stability Points (MS)</h4>
 <p>
-  <div class="qinfo">Starting value: 10</div>
+  <div class="qinfo">Starting value: MS 10</div>
   This stat is kept to represent the character's overall mental stability. While a low MS score does not mean the character is mentally ill, it does indicate a tendency to “snap” or otherwise deteriorate under pressure. In mentally challenging situations, the GM can order a check roll on MS to determine whether the character can keep his/her cool in a stressful situation. Psychological trauma can reduce MS temporarily or in special circumstances even permanently. A day's rest under ideal conditions will restore one point of MS.<br/>
   <br/>
   For each point below 0 MS points, the character is subject to a penalty of 1 on all checks that require mental coordination.
+  A characters MS rating cannot drop below -10.
 </p>
 
 <h3>Health Status Summary</h3>
