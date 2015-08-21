@@ -39,7 +39,7 @@
 <html lang="en" xmlns="http://www.w3.org/1999/xhtml"> 
   <head>
     <title><?= $ptitle ?> | UD10</title>
-    <link type="text/css" rel="stylesheet" href="/theme/default.css?v=<?= mt_rand(1, 10000000) ?>"/> 
+    <link type="text/css" rel="stylesheet" href="/theme/default.css?v=2"/> 
     <link rel="icon" type="image/png" href="/theme/n3-d10.png">
   </head>
   <body>
