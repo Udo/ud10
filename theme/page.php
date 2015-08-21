@@ -7,10 +7,6 @@
 
   $menu = array(
     '/' => $diceImg." Udo's D10 ".$diceImg,
-    #'/rules' => 'Basic Rules',
-    #'/module' => 'Modules',
-    #'/packages' => 'Packages',
-    #'/about' => 'About',  
     );
 
   foreach($menu as $k => $v) {

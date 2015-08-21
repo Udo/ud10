@@ -7,6 +7,13 @@
   designed to allow the GM and players enough freedom of expression to play a rich and nuanced game. 
 </p>
 
+<p>
+  The rules are also avaiable <a href="https://github.com/Udo/ud10">on GitHub</a>, and are
+  licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. 
+  <br/>
+  <img src="http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png" valign="middle"/>
+</p>
+
 <img class="right" src="/img/ud10-siege.jpg"/>
 
 <h2>Dice Rolls</h2>
