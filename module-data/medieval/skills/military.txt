@@ -1,6 +1,0 @@
-author=udo.schroeter@gmail.com
-
-#Military Skills+
-
-##Jousting
-[CON or DEX] The jousting skill is a combination of all the skills required to successfully compete in medieval tournaments and includes knowledge and training in activities like martial games involving a competition between armed horsemen, wielding a lance, recognizing the local customs associated with knighthood, and engage in tactical maneuvers to overcome an opponent in duels.

@@ -10,4 +10,5 @@
     'rules-equipment',
     'rules-xp',
     ) as $pg)
+    
     include('pages/'.$pg.'.php');

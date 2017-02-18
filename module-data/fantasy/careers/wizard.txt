@@ -1,6 +1,0 @@
-author=udo.schroeter@gmail.com
-
-#Classes+
-
-##Wizard
-

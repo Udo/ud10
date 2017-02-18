@@ -1,9 +1,0 @@
-author=udo.schroeter@gmail.com
-
-#Physiological Skills+
-
-Unless otherwise stated in templates, taking these skills should be subject to GM review.
-
-##Resistance: (specify)
-Characters with the Resistance skill have an innate resistance to a specific agent which otherwise adversely affects most other people. Examples for Resistance skills would be: toxins, radiation, cold, heat, diseases, magic, fear, insanity, revulsion. 
-
