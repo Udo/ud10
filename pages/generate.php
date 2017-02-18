@@ -8,7 +8,7 @@
   foreach(explode(chr(10), ob_get_clean()) as $line)
     $lines[] = trim($line);
   
-  file_put_contents('README.md', implode(' ', $lines));
+  file_put_contents('README.md', implode(' '.chr(10), $lines));
   
   print('README.md written.');
   
